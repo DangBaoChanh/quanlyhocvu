@@ -1,0 +1,9 @@
+Hướng dẫn sử dụng: 
+- Đăng nhập vai trò sinh viên với tài khoản : 21071141, password: 123456
+
++ Nếu đăng nhập sai quá 10 lần hệ thống sẽ gửi mã OTP xác nhận để đăng nhập, email mặc định chanhbao07@gmail.com.
++ Trong phần nộp bài tập, nếu nộp file chứa mã độc thì hệ thống sẽ xóa bài, đồng thời gửi cảnh báo đến email trên.
+
+- Đăng nhập với vai trò giảng viên: tài khoản : TV@123! password: 123456
+- Đăng nhập với vai trò admin: tài khoản : admin password: 123456
+- Database: SQL: "localhost","user","123456","truonghoc_iuh"
